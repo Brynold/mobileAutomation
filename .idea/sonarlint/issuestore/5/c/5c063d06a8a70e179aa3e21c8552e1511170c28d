@@ -1,0 +1,11 @@
+
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(§ÿØÓüÿÿÿÿ8ùµÏå¸/
+Q
+java:S3740%"/Provide the parametrized type for this generic.(×¶ËÀúÿÿÿÿ8ïú­ÿ´/
+;
+java:S1128"Remove this duplicated import.(¤ôç¡8öÁíå¸/
+Q
+java:S3740"/Provide the parametrized type for this generic.(­Í¨˜üÿÿÿÿ8§·ÿ´/
+x
+java:S3252 "VUse static access with "org.openqa.selenium.remote.CapabilityType" for "BROWSER_NAME".(ª­õçûÿÿÿÿ8–œ°ÿ´/

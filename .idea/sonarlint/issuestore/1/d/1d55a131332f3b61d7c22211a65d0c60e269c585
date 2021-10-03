@@ -1,0 +1,11 @@
+
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ã°¢å¸/
+{
+java:S1104
+"YMake deviceDetails a static final constant or non-public and provide accessors if needed.(¶Ö öúÿÿÿÿ8Ã°¢å¸/
+j
+java:S2259"HA "NullPointerException" could be thrown; "properties" is nullable here.(ë¢áşÿÿÿÿ8ğ¯å¸/
+j
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(±¿—ûÿÿÿÿ8›¬å¸/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê¼ ³ÿÿÿÿÿ

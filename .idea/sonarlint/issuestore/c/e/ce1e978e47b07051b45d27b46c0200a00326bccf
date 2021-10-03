@@ -1,0 +1,14 @@
+
+H
+java:S2160"+Override the "equals" method in this class.(­¯Ÿ»8”ÿñë¸/
+Q
+java:S3740"/Provide the parametrized type for this generic.(ƒÆœ™ùÿÿÿÿ8ÑÖÎë¸/
+j	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±úãç8ğÏ¥ç¸/
+s
+java:S1192@"VDefine a constant instead of duplicating this literal "locator not found ..!" 3 times.(àÎà8©ÿ¥ç¸/
+Q
+java:S3740"/Provide the parametrized type for this generic.(âªõòÿÿÿÿÿ8‰àšæ¸/
+r
+java:S1192>"PDefine a constant instead of duplicating this literal "').instance(0))" 3 times.(íêì”ùÿÿÿÿ8©ÿ¥ç¸/
+…
+java:S1192="cDefine a constant instead of duplicating this literal "new UiScrollable(new UiSelector()." 3 times.(ó±³ÿÿÿÿÿ8©ÿ¥ç¸/
